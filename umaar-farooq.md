@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=umaar-coder&color=brightgreen)
-![GitHub Followers](https://img.shields.io/github/followers/umaar-coder?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/umaar-coder?label=Stars&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=umaar-farooq&color=brightgreen)
+![GitHub Followers](https://img.shields.io/github/followers/umaar-farooq?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/umaar-farooq?label=Stars&style=social)
 
 </div>
 
@@ -15,6 +15,7 @@
 I'm a **Software Engineer** with **3+ years of experience** specializing in full-stack web development and blockchain technologies. I'm passionate about building scalable, high-performance applications that solve real-world problems.
 
 ### 🎯 What I Do
+
 - **Full-Stack Development**: Building end-to-end web applications
 - **Blockchain Integration**: Developing smart contracts and DApps
 - **Performance Optimization**: Ensuring applications are fast and efficient
@@ -25,33 +26,39 @@ I'm a **Software Engineer** with **3+ years of experience** specializing in full
 ## 🛠️ Technical Skills
 
 ### **Frontend Development**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **UI Frameworks & Libraries:**
+
 - **Component Libraries**: ChakraUI, Ant Design, Material-UI, Flowbite, Shadcn/ui
 - **Styling**: TailwindCSS, SCSS, Bootstrap, CSS3
 - **State Management**: Redux, Zustand, React Context
 
 ### **Backend Development**
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **API Development:**
+
 - RESTful APIs, GraphQL
 - Authentication & Authorization
 - Database Design & Optimization
 - Microservices Architecture
 
 ### **Blockchain & Web3**
+
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 **Technologies:**
+
 - Smart Contract Development
 - Web3.js, Ethers.js
 - DeFi Protocols
@@ -62,12 +69,14 @@ I'm a **Software Engineer** with **3+ years of experience** specializing in full
 ## 🔧 Development Tools & Practices
 
 ### **Development Environment**
+
 - **IDE**: VS Code with productivity extensions
 - **Version Control**: Git, GitHub (Git Flow)
 - **Testing**: Jest, React Testing Library, Cypress
 - **CI/CD**: GitHub Actions, Netlify, Vercel
 
 ### **Code Quality**
+
 - **Linting**: ESLint, Prettier
 - **Type Safety**: TypeScript, PropTypes
 - **Documentation**: JSDoc, README files
@@ -79,15 +88,15 @@ I'm a **Software Engineer** with **3+ years of experience** specializing in full
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umaar-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umaar-farooq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umaar-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umaar-farooq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
 
 <div align="center">Github Streak</div>
 
-![GitHub Streak](https://github-readme-streak-stats-mu-ten.vercel.app?user=umaar-coder&theme=blueberry-duo&hide_border=true&border_radius=6&exclude_days=Sun%2CSat&card_width=600)
+![GitHub Streak](https://github-readme-streak-stats-mu-ten.vercel.app?user=umaar-farooq&theme=blueberry-duo&hide_border=true&border_radius=6&exclude_days=Sun%2CSat&card_width=600)
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=umaar-coder&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=umaar-farooq&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF)
 
 </div>
 
@@ -106,17 +115,17 @@ I'm a **Software Engineer** with **3+ years of experience** specializing in full
 
 <div align="center">
 
-[![Portfolio Native App](https://github-readme-stats.vercel.app/api/pin/?username=umaar-coder&repo=portfolio-native-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umaar-coder/portfolio-native-app)
+[![Portfolio Native App](https://github-readme-stats.vercel.app/api/pin/?username=umaar-farooq&repo=portfolio-native-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umaar-farooq/portfolio-native-app)
 
-[![Real Estate NFT](https://github-readme-stats.vercel.app/api/pin/?username=umaar-coder&repo=real-estate-nft&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umaar-coder/real-estate-nft)
+[![Real Estate NFT](https://github-readme-stats.vercel.app/api/pin/?username=umaar-farooq&repo=real-estate-nft&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umaar-farooq/real-estate-nft)
 
-[![Fetch Dog Adoption](https://github-readme-stats.vercel.app/api/pin/?username=umaar-coder&repo=fetch-dog-adoption&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umaar-coder/fetch-dog-adoption)
+[![Fetch Dog Adoption](https://github-readme-stats.vercel.app/api/pin/?username=umaar-farooq&repo=fetch-dog-adoption&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umaar-farooq/fetch-dog-adoption)
 
-[![Tech Care](https://github-readme-stats.vercel.app/api/pin/?username=umaar-coder&repo=tech-care&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umaar-coder/tech-care)
+[![Tech Care](https://github-readme-stats.vercel.app/api/pin/?username=umaar-farooq&repo=tech-care&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umaar-farooq/tech-care)
 
-[![Flip Code](https://github-readme-stats.vercel.app/api/pin/?username=umaar-coder&repo=flip-code&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umaar-coder/flip-code)
+[![Flip Code](https://github-readme-stats.vercel.app/api/pin/?username=umaar-farooq&repo=flip-code&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umaar-farooq/flip-code)
 
-[![Donation DApp](https://github-readme-stats.vercel.app/api/pin/?username=umaar-coder&repo=donation-dapp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umaar-coder/donation-dapp)
+[![Donation DApp](https://github-readme-stats.vercel.app/api/pin/?username=umaar-farooq&repo=donation-dapp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umaar-farooq/donation-dapp)
 
 </div>
 
@@ -138,6 +147,7 @@ I'm a **Software Engineer** with **3+ years of experience** specializing in full
 ## 💡 Open to Opportunities
 
 I'm always interested in:
+
 - **Collaborating** on open-source projects
 - **Contributing** to innovative tech solutions
 - **Learning** from the developer community
