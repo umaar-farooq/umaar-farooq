@@ -153,7 +153,7 @@ I'm a **Software Engineer** with **3+ years of experience** specializing in full
 
 <div align="center">Github Streak</div>
 
-![GitHub Streak](https://github-readme-streak-stats-mu-ten.vercel.app?user=umaar-farooq&theme=blueberry-duo&hide_border=true&border_radius=6&exclude_days=Sun%2CSat&card_width=600)
+![GitHub Streak](https://github-readme-streak-stats-mu-ten.vercel.app?user=umaar-farooq&theme=blueberry-duo&hide_border=true&border_radius=6&card_width=600)
 
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=umaar-farooq&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF)
 
