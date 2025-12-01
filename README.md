@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=umar-coderzhunt&color=brightgreen)
-![GitHub Followers](https://img.shields.io/github/followers/umar-coderzhunt?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/umar-coderzhunt?label=Stars&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=umaar-coder&color=brightgreen)
+![GitHub Followers](https://img.shields.io/github/followers/umaar-coder?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/umaar-coder?label=Stars&style=social)
 
 </div>
 
@@ -79,15 +79,15 @@ I'm a **Software Engineer** with **3+ years of experience** specializing in full
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umar-coderzhunt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umaar-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umar-coderzhunt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umaar-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
 
 <div align="center">Github Streak</div>
 
-![GitHub Streak](https://github-readme-streak-stats-mu-ten.vercel.app?user=umar-coderzhunt&theme=blueberry-duo&hide_border=true&border_radius=6&exclude_days=Sun%2CSat&card_width=600)
+![GitHub Streak](https://github-readme-streak-stats-mu-ten.vercel.app?user=umaar-coder&theme=blueberry-duo&hide_border=true&border_radius=6&exclude_days=Sun%2CSat&card_width=600)
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=umar-coderzhunt&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=umaar-coder&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF)
 
 </div>
 
@@ -106,17 +106,17 @@ I'm a **Software Engineer** with **3+ years of experience** specializing in full
 
 <div align="center">
 
-[![Portfolio Native App](https://github-readme-stats.vercel.app/api/pin/?username=umar-coderzhunt&repo=portfolio-native-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umar-coderzhunt/portfolio-native-app)
+[![Portfolio Native App](https://github-readme-stats.vercel.app/api/pin/?username=umaar-coder&repo=portfolio-native-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umaar-coder/portfolio-native-app)
 
-[![Real Estate NFT](https://github-readme-stats.vercel.app/api/pin/?username=umar-coderzhunt&repo=real-estate-nft&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umar-coderzhunt/real-estate-nft)
+[![Real Estate NFT](https://github-readme-stats.vercel.app/api/pin/?username=umaar-coder&repo=real-estate-nft&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umaar-coder/real-estate-nft)
 
-[![Fetch Dog Adoption](https://github-readme-stats.vercel.app/api/pin/?username=umar-coderzhunt&repo=fetch-dog-adoption&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umar-coderzhunt/fetch-dog-adoption)
+[![Fetch Dog Adoption](https://github-readme-stats.vercel.app/api/pin/?username=umaar-coder&repo=fetch-dog-adoption&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umaar-coder/fetch-dog-adoption)
 
-[![Tech Care](https://github-readme-stats.vercel.app/api/pin/?username=umar-coderzhunt&repo=tech-care&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umar-coderzhunt/tech-care)
+[![Tech Care](https://github-readme-stats.vercel.app/api/pin/?username=umaar-coder&repo=tech-care&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umaar-coder/tech-care)
 
-[![Flip Code](https://github-readme-stats.vercel.app/api/pin/?username=umar-coderzhunt&repo=flip-code&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umar-coderzhunt/flip-code)
+[![Flip Code](https://github-readme-stats.vercel.app/api/pin/?username=umaar-coder&repo=flip-code&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umaar-coder/flip-code)
 
-[![Donation DApp](https://github-readme-stats.vercel.app/api/pin/?username=umar-coderzhunt&repo=donation-dapp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umar-coderzhunt/donation-dapp)
+[![Donation DApp](https://github-readme-stats.vercel.app/api/pin/?username=umaar-coder&repo=donation-dapp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)](https://github.com/umaar-coder/donation-dapp)
 
 </div>
 
