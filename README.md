@@ -49,6 +49,7 @@ I'm a **Software Engineer** with **3+ years of experience** specializing in full
 
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
+![React Context](https://img.shields.io/badge/React%20Context-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 - **Component Libraries**: ChakraUI, Ant Design, Material-UI, Flowbite, Shadcn/ui
 - **Styling**: TailwindCSS, SCSS, Bootstrap, CSS3
