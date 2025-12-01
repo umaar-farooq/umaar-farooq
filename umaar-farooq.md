@@ -146,9 +146,9 @@ I'm a **Software Engineer** with **3+ years of experience** specializing in full
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umaar-farooq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umaar-farooq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umaar-farooq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umaar-farooq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E) -->
 
 <div align="center">Github Streak</div>
 
@@ -167,7 +167,7 @@ I'm a **Software Engineer** with **3+ years of experience** specializing in full
 - **Blockchain Development**: Layer 2 solutions, cross-chain interoperability
 - **System Design**: Scalable architecture patterns, microservices design
 
----
+<!-- ---
 
 ## 🚀 Featured Projects
 
@@ -187,7 +187,7 @@ I'm a **Software Engineer** with **3+ years of experience** specializing in full
 
 </div>
 
----
+--- -->
 
 ## 📫 Let's Connect
 
